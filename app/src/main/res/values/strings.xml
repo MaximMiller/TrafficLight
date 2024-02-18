@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrafficLight</string>
+    <string name="btn_red">Красный</string>
+    <string name="text_choice">Выбранный цвет</string>
+    <string name="btn_yellow">Желтый</string>
+    <string name="btn_green">Зеленый</string>
+    <string name="result_change_color">Фон изменился на</string>
+</resources>
